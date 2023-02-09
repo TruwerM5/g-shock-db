@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "images": [
+            "./images/g-shock-1.jpg",
+            "./images/g-shock-2.jpg",
+            "./images/g-shock-3.jpg",
+            "./images/g-shock-4.jpg",
+            "./images/g-shock-5.jpg",
+            "./images/g-shock-6.jpg"
+        ],
+        "name": "GA-100-1A1ER",
+        "price": "109",
+        "description": [
+            "Introducing a collection of new G-SHOCK models whose 35mm diameter faces and large cases give them a look of power and strength. Dial rings and raised hour markers also create three-dimensional depth that gives the face plenty of character. These watches are designed and engineered to deliver outstanding shock resistance, are 200m water resistant, and anti-magnetic. The GA-100-1A1ER is beautifully finished in black with pure white hands and a reverse LCD display for a distinctive look.",
+            "Over-sized buttons come with a checkered anti-slip surface to make operations fast and sure.",
+            "1/1000-second stopwatch, velocity indicator, World Time, 5 alarms and much more provides these models with unmatched function and performance."
+        ],
+        "specifications": [
+            { "feature":  "WATER RESISTANT", "description": "200 Metres Water Resistant" },
+            { "feature":  "ACCURACY", "description": "+/- 15 seconds per month" },
+            { "feature":  "ALARM FUNCTION", "description": "5 Daily Alarms: Each will sound every day at the time you set, Hourly time signal: The watch beeps every hour on the hour, Snooze function" },
+            { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" }
+        ]
+    }
+]
