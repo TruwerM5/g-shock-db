@@ -24,5 +24,10 @@
         "src": "./images/watches/gmw-b5000tvb-1-1.jpg",
         "name": "GMW-B5000TVB-1ER",
         "price": "1499"
+    },{
+        "id": "6",
+        "src": "./images/watches/gm-114gem-1a9er-1.jpg",
+        "name": "GM-114GEM-1A9ER",
+        "price": "309"
     }
 ]

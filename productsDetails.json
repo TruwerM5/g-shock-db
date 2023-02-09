@@ -113,6 +113,24 @@
             { "feature":  "ALARM FUNCTION", "description": "5 Daily Alarms: Each will sound every day at the time you set, Hourly time signal: The watch beeps every hour on the hour, Snooze function" },
             { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" }
         ]
+    }, {
+        "id": "6",
+        "images": [
+            "./images/watches/gm-114gem-1a9er-1.jpg",
+            "./images/watches/gm-114gem-1a9er-2.jpg",
+            "./images/watches/gm-114gem-1a9er-3.jpg"
+        ],
+        "description": [
+            "The 40th anniversary Adventurer’s Stone shock-resistant models are inspired by the stones known to adventurers as useful compasses since the Middle Ages. The G-SHOCK brand concept of continuous innovation inspires people to take on new challenges, and the design of this line is based on the value that these stones have always had to people seeking adventure.",
+            "The GM-114GEM-1A9ER is based on the GM-110 with its distinctive dimensional dial, and inspired by calcite. This stone is found in various hues and is said to “lead onward to success.” After an initial overall ion plating in a gold colour, the sides are masked at 5 and 10 o’clock and the bezel is ion plated in black to achieve a two-tone look. To complement the calcite motif, this model features a black band in textured resin."
+        ],
+        "specifications": [
+            { "feature":  "12/24 Hour format", "description": "Digital time display can be configured to either 12-Hour or 24 Hour Format" },
+            { "feature":  "WATER RESISTANT", "description": "200 Metres Water Resistant" },
+            { "feature":  "ACCURACY", "description": "+/- 15 seconds per month" },
+            { "feature":  "ALARM FUNCTION", "description": "5 Daily Alarms: Each will sound every day at the time you set, Hourly time signal: The watch beeps every hour on the hour, Snooze function" },
+            { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" }
+        ]
     }
 
 ]
