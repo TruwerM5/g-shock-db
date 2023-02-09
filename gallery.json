@@ -11,10 +11,13 @@
         "price": "119"
     },{
         "id": "3",
-        "src": "./images/g-shock-2100-1.jpg",
+        "src": "./images/watches/ga-2200gc-7aer-1.png",
         "name": "GAE-2100GC-7AER",
-        "price": "209"
-    },{
+        "price": "129"
+    },
+    
+    
+    {
         "id": "4",
         "src": "./images/g-shock-mrg-1.jpg",
         "name": "MRG-B2000GA-1ADR",

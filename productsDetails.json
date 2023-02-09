@@ -3,11 +3,10 @@
         "id": "1",
         "images": [
             "./images/watches/ga-100-1a1er-1.png",
-            "./images/watches/ga-100-1a1er-1.png",
-            "./images/watches/ga-100-1a1er-1.png",
-            "./images/watches/ga-100-1a1er-1.png",
-            "./images/watches/ga-100-1a1er-1.png",
-            "./images/watches/ga-100-1a1er-1.png"
+            "./images/watches/ga-100-1a1er-2.png",
+            "./images/watches/ga-100-1a1er-3.png",
+            "./images/watches/ga-100-1a1er-4.png",
+            "./images/watches/ga-100-1a1er-5.png"
         ],
         "name": "GA-100-1A1ER",
         "price": "109",
