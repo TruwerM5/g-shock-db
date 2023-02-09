@@ -6,26 +6,23 @@
         "price": "109"
     },{
         "id": "2",
-        "src": "./images/ga-2000s-1.png",
+        "src": "./images/watches/ga-2000s-1.png",
         "name": "GA-2000S-1AER",
         "price": "119"
     },{
         "id": "3",
         "src": "./images/watches/ga-2200gc-7aer-1.png",
-        "name": "GAE-2100GC-7AER",
+        "name": "GA-2100GC-7AER",
         "price": "129"
-    },
-    
-    
-    {
+    },{
         "id": "4",
-        "src": "./images/g-shock-mrg-1.jpg",
+        "src": "./images/watches/mrg-b2000ga-1.jpg",
         "name": "MRG-B2000GA-1ADR",
-        "price": "199"
+        "price": "6500"
     },{
         "id": "5",
-        "src": "./images/casio-female-1.jpg",
-        "name": "GM-2100BB-1AER",
-        "price": "199"
+        "src": "./images/watches/gmw-b5000tvb-1-1.jpg",
+        "name": "GMW-B5000TVB-1ER",
+        "price": "1499"
     }
 ]

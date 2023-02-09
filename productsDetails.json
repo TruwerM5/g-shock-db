@@ -21,16 +21,15 @@
             { "feature":  "ALARM FUNCTION", "description": "5 Daily Alarms: Each will sound every day at the time you set, Hourly time signal: The watch beeps every hour on the hour, Snooze function" },
             { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" }
         ]
-    },
-    {
+    },{
         "id": "2",
         "images": [
-            "./images/ga-2000s-1.png",
-            "./images/ga-2000s-2.jpg",
-            "./images/ga-2000s-3.jpg",
-            "./images/ga-2000s-4.jpg",
-            "./images/ga-2000s-5.jpg",
-            "./images/ga-2000s-6.jpg"
+            "./images/watches/ga-2000s-1.png",
+            "./images/watches/ga-2000s-2.jpg",
+            "./images/watches/ga-2000s-3.jpg",
+            "./images/watches/ga-2000s-4.jpg",
+            "./images/watches/ga-2000s-5.jpg",
+            "./images/watches/ga-2000s-6.jpg"
         ],
         "name": "ECB-2000D-1AEF",
         "alias": "CARBON CORE GUARD",
@@ -46,5 +45,74 @@
             { "feature":  "ALARM FUNCTION", "description": "5 Daily Alarms: Each will sound every day at the time you set, Hourly time signal: The watch beeps every hour on the hour, Snooze function" },
             { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" }
         ]
+    }, {
+        "id": "3",
+        "images": [
+            "./images/watches/ga-2200gc-7aer-1.png",
+            "./images/watches/ga-2200gc-7aer-2.jpg",
+            "./images/watches/ga-2200gc-7aer-3.jpg",
+            "./images/watches/ga-2200gc-7aer-4.jpg",
+            "./images/watches/ga-2200gc-7aer-5.jpg",
+            "./images/watches/ga-2200gc-7aer-6.jpg"
+        ],
+        "name": "GA-2100GC-7AER",
+        "alias": "SNOW CAMO SERIES",
+        "price": "129",
+        "description": [
+            "The Frozen Forest Series timepieces feature digital snowflakes in a camouflage pattern against wintry white for a frosty texture that’s stylishly cool. With a built-in carbon core guard structure, and a layered construction that seamlessly integrates the bezel, case back and buttons, this model really is built for adventure and fun. Larger shock-resistant side buttons eliminate the need for button guards, and it features 5 daily alarms, a stopwatch, world time mode and a double LED light."
+        ],
+        "specifications": [
+            { "feature":  "WATER RESISTANT", "description": "200 Metres Water Resistant" },
+            { "feature":  "ACCURACY", "description": "+/- 15 seconds per month" },
+            { "feature":  "ALARM FUNCTION", "description": "5 Daily Alarms: Each will sound every day at the time you set, Hourly time signal: The watch beeps every hour on the hour, Snooze function" },
+            { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" }
+        ]
+    }, {
+        "id": "4",
+        "images": [
+            "./images/watches/mrg-b2000ga-1.jpg",
+            "./images/watches/mrg-b2000ga-2.jpg",
+            "./images/watches/mrg-b2000ga-3.jpg",
+            "./images/watches/mrg-b2000ga-4.jpg",
+            "./images/watches/mrg-b2000ga-5.jpg",
+            "./images/watches/mrg-b2000ga-6.jpg"
+        ],
+        "name": "GA-2100GC-7AER",
+        "alias": "MR G GASSAN",
+        "price": "6500",
+        "description": [
+            "This G-SHOCK 40th anniversary limited edition model is a collaboration between MR-G, the pinnacle of G-SHOCK, and Japan’s leading swordsmith, Gassan. The titanium band is designed to resemble a sword’s nakago (tang). The middle segments of the band are personally marked by swordsmith Sadanobu Gassan with a yasuri-me (file mark) pattern and carved with his signature. A yasuri-me (file mark) pattern is filed into a sword’s nakago (tang) to prevent it from slipping out of the grip. Sadanobu Gassan, a descendant of one of Japan’s most renowned swordsmith lineages, has carved kesho yasuri-me (decorative file mark) patterns, which give each timepiece a touch of elegance. Recrystallized hybrid titanium is a material that integrates multiple layers of titanium Ti64 and pure titanium in a way that the differences between the materials become visible when they are recrystallized. Taking advantage of this feature, we created a unique tempered ayasugi hada pattern under the supervision of renowned sword maker Sadanobu Gassan. Depending on the swordmaking school, different patterns manifest themselves when a sword blade is forged. The bezel, band, and back cover are coated with a newly developed blue-grey IP coating to reproduce the bluish iron colour that is the colour of high-quality swords. The case is made of pure recrystallized titanium and finished with deep hardening and a TIC coating. The letters \"G-SHOCK\" \"40TH\" are engraved on the plate on the side of the case at 10 o’clock. Function-wise, this special model is packed with various advanced practical functions made possible by Tough Solar, Bluetooth® smartphone linking, and time adjustment using Radio Controlled MultiBand 6 technology. The application of world-renowned traditional sword making techniques and advanced modern technology makes this a truly special modelT"
+        ],
+        "specifications": [
+            { "feature":  "WATER RESISTANT", "description": "200 Metres Water Resistant" },
+            { "feature":  "ACCURACY", "description": "+/- 15 seconds per month" },
+            { "feature":  "AIRPLANE MODE", "description": "Radio wave signals can be disabled when flying or in a medical facility" },
+            { "feature":  "ALARM FUNCTION", "description": "Daily Alarm: Sounds each day at the time you set" },
+            { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" }
+        ]
+    }, {
+        "id": "5",
+        "images": [
+            "./images/watches/gmw-b5000tvb-1-1.jpg",
+            "./images/watches/gmw-b5000tvb-1-2.jpg",
+            "./images/watches/gmw-b5000tvb-1-3.jpg",
+            "./images/watches/gmw-b5000tvb-1-4.jpg",
+            "./images/watches/gmw-b5000tvb-1-5.jpg",
+            "./images/watches/gmw-b5000tvb-1-6.jpg"
+        ],
+        "name": "GMW-B5000TVB-1ER",
+        "alias": "GMW TITANIUM VIRTUAL ARMOUR",
+        "price": "1499",
+        "description": [
+            "The exceptionally original looking GMW-B5000TVB takes its inspiration from the virtual world. This timepiece is crafted in titanium which ensures strength with a lightweight finish, and multiple layers of IP (ion plating) build up to create geometric irregular patterns on the case and band. Lug holes in the bezel reveal the case, and fine resin buffering beneath adds to a design that moves style into the future. It is also solar powered and has a scratch resistant sapphire glass. Notable advancements in the technology offering include Multi Band 6 radio control which ensures the most accurate timekeeping, while Bluetooth® Connectivity means you can easily switch your watch time settings from time zone to zone while you travel the world."
+        ],
+        "specifications": [
+            { "feature":  "12/24 Hour format", "description": "Digital time display can be configured to either 12-Hour or 24 Hour Format" },
+            { "feature":  "WATER RESISTANT", "description": "200 Metres Water Resistant" },
+            { "feature":  "ACCURACY", "description": "+/- 15 seconds per month" },
+            { "feature":  "ALARM FUNCTION", "description": "5 Daily Alarms: Each will sound every day at the time you set, Hourly time signal: The watch beeps every hour on the hour, Snooze function" },
+            { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" }
+        ]
     }
+
 ]
