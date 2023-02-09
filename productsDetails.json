@@ -22,5 +22,30 @@
             { "feature":  "ALARM FUNCTION", "description": "5 Daily Alarms: Each will sound every day at the time you set, Hourly time signal: The watch beeps every hour on the hour, Snooze function" },
             { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" }
         ]
+    },
+    {
+        "id": "2",
+        "images": [
+            "./images/ga-2000s-1.png",
+            "./images/ga-2000s-2.jpg",
+            "./images/ga-2000s-3.jpg",
+            "./images/ga-2000s-4.jpg",
+            "./images/ga-2000s-5.jpg",
+            "./images/ga-2000s-6.jpg"
+        ],
+        "name": "ECB-2000D-1AEF",
+        "alias": "CARBON CORE GUARD",
+        "price": "119",
+        "description": [
+            "From G-SHOCK, the watch brand that is constantly setting new standards for unmatched timekeeping toughness, comes a new series of GA-2000 timepieces that are destined to become the next-generation standard of the G-SHOCK world.",
+            "The two GA-2000S models are available in black or white monotone coloring, with simple highlight colors that accent the forms of these watches.",
+            "A multidimensional face, a big front button, and other design elements create a powerful and tough design."
+        ],
+        "specifications": [
+            { "feature":  "WATER RESISTANT", "description": "200 Metres Water Resistant" },
+            { "feature":  "ACCURACY", "description": "+/- 15 seconds per month" },
+            { "feature":  "ALARM FUNCTION", "description": "5 Daily Alarms: Each will sound every day at the time you set, Hourly time signal: The watch beeps every hour on the hour, Snooze function" },
+            { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" }
+        ]
     }
 ]
