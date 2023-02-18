@@ -1,0 +1,78 @@
+[
+    {
+        "id": "1",
+        "src": "./images/watches/ga-100-1a1er-1.png",
+        "name": "GA-100-1A1ER",
+        "price": "109"
+    },{
+        "id": "2",
+        "src": "./images/watches/ga-2000s-1.png",
+        "name": "GA-2000S-1AER",
+        "price": "119"
+    },{
+        "id": "3",
+        "src": "./images/watches/ga-2200gc-7aer-1.png",
+        "name": "GA-2100GC-7AER",
+        "price": "129"
+    },{
+        "id": "4",
+        "src": "./images/watches/mrg-b2000ga-1.jpg",
+        "name": "MRG-B2000GA-1ADR",
+        "price": "6500"
+    },{
+        "id": "5",
+        "src": "./images/watches/gmw-b5000tvb-1-1.jpg",
+        "name": "GMW-B5000TVB-1ER",
+        "price": "1499"
+    },{
+        "id": "6",
+        "src": "./images/watches/gm-114gem-1a9er-1.jpg",
+        "name": "GM-114GEM-1A9ER",
+        "price": "309"
+    },{
+        "id": "7",
+        "src": "./images/watches/gwg-2000-1a1-1.png",
+        "name": "GWG-2000-1A1",
+        "price": "699"
+    },{
+        "id": "8",
+        "src": "./images/watches/ga-700vb-1a-1.png",
+        "name": "GA-700VB-1A",
+        "price": "99.90"
+    },{
+        "id": "9",
+        "src": "./images/watches/ga-700SKC-1a-1.png",
+        "name": "GA-700SKC-1A",
+        "price": "119"
+    },{
+        "id": "10",
+        "src": "./images/watches/ga-b001g-1a-1.png",
+        "name": "GA-B001G-1A",
+        "price": "139"
+    },{
+        "id": "11",
+        "src": "./images/watches/mtg-b3000fr-1a-1.png",
+        "name": "MTG-B3000FR-1A",
+        "price": "1199"
+    },{
+        "id": "12",
+        "src": "./images/watches/mtg-b3000bde-1a-1.png",
+        "name": "MTG-B3000DE-1A",
+        "price": "999"
+    },{
+        "id": "13",
+        "src": "./images/watches/gm-s114gem-1a2-1.png",
+        "name": "GM-S114GEM-1A2",
+        "price": "269"
+    },{
+        "id": "14",
+        "src": "./images/watches/gwf-a1000apf-1a-1.png",
+        "name": "GWF-A1000APF-1A",
+        "price": "949"
+    },{
+        "id": "15",
+        "src": "./images/watches/gba-900-4a-1.png",
+        "name": "GBA-900-4A",
+        "price": "119"
+    }
+]

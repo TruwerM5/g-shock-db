@@ -177,6 +177,162 @@
             { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" },
             { "feature":  "BAND MATERIAL", "description": "Resin" }
         ]
+    }, {
+        "id": "9",
+        "images": [
+            "./images/watches/ga-700SKC-1a-1.png",
+            "./images/watches/ga-700SKC-1a-2.png",
+            "./images/watches/ga-700SKC-1a-3.png",
+            "./images/watches/ga-700SKC-1a-4.png",
+            "./images/watches/ga-700SKC-1a-5.png",
+            "./images/watches/ga-700SKC-1a-6.png"
+        ],
+        "name": "GA-700SKC-1A",
+        "alias": "GA-700 VIRTUAL BLUE SERIES",
+        "price": "99.90",
+        "description": [
+            "This new G-SHOCK model features digital camouflage pattern on metallic face that result in subdued designs. Base model is GA-700, the analog-digital timepieces. The basic black coloring of this model is offset by vivid yellow accents for a cool look."
+        ],
+        "specifications": [
+            { "feature":  "WATER RESISTANT", "description": "200 Metres Water Resistant" },
+            { "feature":  "ACCURACY", "description": "+/- 15 seconds per month" },
+            { "feature":  "ALARM FUNCTION", "description": "5 Daily Alarms: Each will sound every day at the time you set, Hourly time signal: The watch beeps every hour on the hour, Snooze function" },
+            { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" },
+            { "feature":  "BAND MATERIAL", "description": "Resin" }
+        ]
+    }, {
+        "id": "10",
+        "images": [
+            "./images/watches/ga-b001g-1a-1.png",
+            "./images/watches/ga-b001g-1a-2.png",
+            "./images/watches/ga-b001g-1a-3.png",
+            "./images/watches/ga-b001g-1a-4.png",
+            "./images/watches/ga-b001g-1a-5.png",
+            "./images/watches/ga-b001g-1a-6.png"
+        ],
+        "name": "GA-B001G-1A",
+        "alias": "INTEGRATED BEZEL AND BAND GA-B001 SERIES",
+        "price": "139",
+        "description": [
+            "Introducing the new GA-B001 series from G-SHOCK -Featuring a new toughness-driven design and Smartphone Link functionality. With the GA-B001 and GA-B001G, Casio brings ingenuity to the exterior structure to achieve an integrated bezel and band construction in a shock-resistant watch which comprises two separate components that connect at the 9 and 3 o'clock positions. The molded construction follows the lines of the wrist, minimizing the space between the wrist and watch for an enhanced fit. These watches are all equipped with a Mobile Link feature for pairing with a smartphone via Bluetooth®. When used with the dedicated CASIO WATCHES app, the watch automatically adjusts to the correct time. In addition, the App information function sends notifications on the watch when the app receives updates on new products and other information. The GA-B001G models employ a gradated colour print on translucent materials for the bezel and band, giving them a extra design detail adding to the overall unique finish."
+        ],
+        "specifications": [
+            { "feature":  "WATER RESISTANT", "description": "200 Metres Water Resistant" },
+            { "feature":  "ACCURACY", "description": "+/- 15 seconds per month" },
+            { "feature":  "ALARM FUNCTION", "description": "5 Daily Alarms: Each will sound every day at the time you set, Hourly time signal: The watch beeps every hour on the hour, Snooze function" },
+            { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" },
+            { "feature":  "BAND MATERIAL", "description": "Resin" }
+        ]
+    }, {
+        "id": "11",
+        "images": [
+            "./images/watches/mtg-b3000fr-1a-1.png",
+            "./images/watches/mtg-b3000fr-1a-2.png",
+            "./images/watches/mtg-b3000fr-1a-3.png",
+            "./images/watches/mtg-b3000fr-1a-4.png",
+            "./images/watches/mtg-b3000fr-1a-5.png"
+        ],
+        "name": "GA-B001G-1A",
+        "alias": "MTG 40TH ANNIVERSARY FLARE RED SERIES",
+        "price": "1199",
+        "description": [
+            "The 40th anniversary Flare Red model, the MTG-B3000FR is now available. Featuring a multicolour laminated bezel made with phosphorescent materials in the famous red colour of G-SHOCK, evoking solar flares, which are the massive eruptions of intense energy from the sun’s surface. Using a newly developed technique to laminate carbon and coloured glass fiber sheets together, Phosphorescent particles are mixed into the glass fiber sheets to create powerful designs that are stunning even in the dark. The bezel of every single watch has its own unique look, since the materials present a one-of-a-kind appearance each time. A solar flare-inspired pattern printed on the dial with clear toner adds to the dynamic face design. These meticulously beautiful, uniquely impactful timepieces are just right for kicking off the G-SHOCK 40th anniversary celebration."
+        ],
+        "specifications": [
+            { "feature":  "WATER RESISTANT", "description": "200 Metres Water Resistant" },
+            { "feature":  "ACCURACY", "description": "+/- 15 seconds per month" },
+            { "feature":  "ALARM FUNCTION", "description": "5 Daily Alarms: Each will sound every day at the time you set, Hourly time signal: The watch beeps every hour on the hour, Snooze function" },
+            { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" },
+            { "feature":  "BAND MATERIAL", "description": "Resin" }
+        ]
+    }, {
+        "id": "12",
+        "images": [
+            "./images/watches/mtg-b3000bde-1a-1.png",
+            "./images/watches/mtg-b3000bde-1a-2.png",
+            "./images/watches/mtg-b3000bde-1a-3.png"
+        ],
+        "name": "MTG-B3000DE-1A",
+        "alias": "MTG-B3000 SERIES",
+        "price": "999",
+        "description": [
+            "Discover the innovative form MT-G- timepieces born of an entirely new design concept combining the resin used in the first G-SHOCK models with metal materials. Welcome to a whole new level of sophisticated structural design. With its even more advanced Dual Core Guard structure, the MTG-B3000 protects the module in a carbon-reinforced resin case and encloses the exterior in metal components. Repeated pressing, cutting, and polishing builds the stainless steel case back upward into an intricate 3D form. The case back also serves as the lugs to secure the band and as the guards for crown and buttons, for a completely new structure. All of these innovative designs and technologies created a much thinner watch, measuring just 12.1 mm from bezel to case back. This innovative, tough new style delivers full-on functionality, as well. Download the CASIO WATCHES app to pair with your smartphone via Bluetooth®. With Multi Band 6, Tough Solar charging system, and high-brightness LED light, these timepieces keep you at peak performance, whatever your adventures may bring."
+        ],
+        "specifications": [
+            { "feature":  "WATER RESISTANT", "description": "200 Metres Water Resistant" },
+            { "feature":  "ACCURACY", "description": "+/- 15 seconds per month" },
+            { "feature":  "ALARM FUNCTION", "description": "5 Daily Alarms: Each will sound every day at the time you set, Hourly time signal: The watch beeps every hour on the hour, Snooze function" },
+            { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" },
+            { "feature":  "BAND MATERIAL", "description": "Composite (Resin + Stainless Steel), Layered Composite Band" }
+        ]
+    }, {
+        "id": "13",
+        "images": [
+            "./images/watches/gm-s114gem-1a2-1.png",
+            "./images/watches/gm-s114gem-1a2-2.png",
+            "./images/watches/gm-s114gem-1a2-3.png",
+            "./images/watches/gm-s114gem-1a2-4.png",
+            "./images/watches/gm-s114gem-1a2-5.png"
+        ],
+        "name": "GM-S114GEM-1A2",
+        "alias": "GEM SERIES",
+        "price": "269",
+        "description": [
+            "The 40th anniversary Adventurer’s Stone shock-resistant models are inspired by the stones known to adventurers as useful compasses since the Middle Ages. The G-SHOCK brand concept of continuous innovation inspires people to take on new challenges, and the design of this line is based on the value that these stones have always had to people seeking adventure. The GM-S110 is the base for this purple calcite-inspired model. After an initial overall ion plating in purple, the sides are masked at 2 and 7 o’clock and the bezel is ion plated in grey, recreating the distinctive gorgeous purple of this form of calcite."
+        ],
+        "specifications": [
+            { "feature":  "WATER RESISTANT", "description": "200 Metres Water Resistant" },
+            { "feature":  "ACCURACY", "description": "+/- 15 seconds per month" },
+            { "feature":  "ALARM FUNCTION", "description": "5 Daily Alarms: Each will sound every day at the time you set, Hourly time signal: The watch beeps every hour on the hour, Snooze function" },
+            { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" },
+            { "feature":  "BAND MATERIAL", "description": "Resin"}
+        ]
+    }, {
+        "id": "14",
+        "images": [
+            "./images/watches/gwf-a1000apf-1a-1.png",
+            "./images/watches/gwf-a1000apf-1a-2.png",
+            "./images/watches/gwf-a1000apf-1a-3.png",
+            "./images/watches/gwf-a1000apf-1a-4.png",
+            "./images/watches/gwf-a1000apf-1a-5.png",
+            "./images/watches/gwf-a1000apf-1a-6.png"
+        ],
+        "name": "GWF-A1000APF-1A",
+        "alias": "30TH ANNIVERSARY POISON DART FROG FROGMAN",
+        "price": "949",
+        "description": [
+            "FROGMAN, the G-SHOCK MASTER OF G timepiece capable of ISO standard 200-metre diving, was first released in 1993, which means 2023 is the 30th anniversary of the FROGMAN lineup. As the second FROGMAN model to commemorate this anniversary, this new model uses the GWF-A1000 as a base model with a design based on a poison dart frog which inhabits the Amazon rain forests in South America. Randomly laminated multi-colour carbon and fiberglass are carved to create bezels that reproduce the mysterious colouring of the poison dart frog. This, combined with semitransparent urethane material, reproduces the appearance of the poison dart frog’s skin. Polarized ink is also used to recreate the image of the frog's mottled skin pattern. Even the frog character on the watch’s back cover, which identifies this watch as part of the FROGMAN series, sports the spotted pattern of a poison dart frog. This model is Bluetooth enabled, solar powered and Radio Controlled for the ultimate in connectivity."
+        ],
+        "specifications": [
+            { "feature":  "WATER RESISTANT", "description": "200 Metres Water Resistant" },
+            { "feature":  "ACCURACY", "description": "+/- 15 seconds per month" },
+            { "feature":  "ALARM FUNCTION", "description": "5 Daily Alarms: Each will sound every day at the time you set, Hourly time signal: The watch beeps every hour on the hour, Snooze function" },
+            { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" },
+            { "feature":  "BAND MATERIAL", "description": "Fluoroelastomer band with polarized colour spray paint"}
+        ]
+    }, {
+        "id": "15",
+        "images": [
+            "./images/watches/gba-900-4a-1.png",
+            "./images/watches/gba-900-4a-2.png",
+            "./images/watches/gba-900-4a-3.png",
+            "./images/watches/gba-900-4a-4.png",
+            "./images/watches/gba-900-4a-5.png",
+            "./images/watches/gba-900-4a-6.png"
+        ],
+        "name": "GA-900-4AER",
+        "alias": "HEAVY DUTY GA-900-4AER",
+        "price": "119",
+        "description": [
+            "FROGMAN, the G-SHOCK MASTER OF G timepiece capable of ISO standard 200-metre diving, was first released in 1993, which means 2023 is the 30th anniversary of the FROGMAN lineup. As the second FROGMAN model to commemorate this anniversary, this new model uses the GWF-A1000 as a base model with a design based on a poison dart frog which inhabits the Amazon rain forests in South America. Randomly laminated multi-colour carbon and fiberglass are carved to create bezels that reproduce the mysterious colouring of the poison dart frog. This, combined with semitransparent urethane material, reproduces the appearance of the poison dart frog’s skin. Polarized ink is also used to recreate the image of the frog's mottled skin pattern. Even the frog character on the watch’s back cover, which identifies this watch as part of the FROGMAN series, sports the spotted pattern of a poison dart frog. This model is Bluetooth enabled, solar powered and Radio Controlled for the ultimate in connectivity."
+        ],
+        "specifications": [
+            { "feature":  "WATER RESISTANT", "description": "200 Metres Water Resistant" },
+            { "feature":  "ACCURACY", "description": "+/- 15 seconds per month" },
+            { "feature":  "ALARM FUNCTION", "description": "5 Daily Alarms: Each will sound every day at the time you set, Hourly time signal: The watch beeps every hour on the hour, Snooze function" },
+            { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" },
+            { "feature":  "BAND MATERIAL", "description": "Resin"}
+        ]
     }
 
 ]
