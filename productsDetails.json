@@ -133,6 +133,27 @@
             { "feature":  "ALARM FUNCTION", "description": "5 Daily Alarms: Each will sound every day at the time you set, Hourly time signal: The watch beeps every hour on the hour, Snooze function" },
             { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" }
         ]
+    }, {
+        "id": "7",
+        "images": [
+            "./images/watches/gwg-2000-1a1-1.png",
+            "./images/watches/gwg-2000-1a1-2.png",
+            "./images/watches/gwg-2000-1a1-3.png",
+            "./images/watches/gwg-2000-1a1-4.png"
+        ],
+        "name": "GWG-2000-1A1-1",
+        "alias": "GWG-2000-1A1ER CARBON MUDMASTER",
+        "price": "699",
+        "description": [
+            "Introducing the GWG-2000, the latest addition to the Master of G land series, which have a shock and mud resistant structure, designed for use in the harshest environments. With the integration of a Carbon Core Guard these are now slimmer, lighter but much stronger than previous series, while the lugs, shock absorbers and internal casing are now integrated with carbon fibers which can be seen within each component creating a texture that is unique to every watch. The GWG-2000 also has a super strong solid steel bezel and crown, built to absorb extreme impacts as well as a built-in Compass, Altimeter, Barometer and Thermometer – perfect for getting you out of trouble in dangerous environments. With unbeatable mud resistance and patented gasket design, nothing can get inside the watch, keeping this versatile piece of equipment working when you need it most. Available in classic stealthy black, the GWG-2000 is built to go beyond!"
+        ],
+        "specifications": [
+            { "feature":  "WATER RESISTANT", "description": "200 Metres Water Resistant" },
+            { "feature":  "ACCURACY", "description": "+/- 15 seconds per month" },
+            { "feature":  "ALARM FUNCTION", "description": "5 Daily Alarms: Each will sound every day at the time you set, Hourly time signal: The watch beeps every hour on the hour, Snooze function" },
+            { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" },
+            { "feature":  "ALTIMETER FUNCTION", "description": "A built-in pressure sensor measures barometric pressure, which is converted to relative altitude, Measuring range: -700 to 10,000m (-2,300 to 32,800ft), Measuring unit: 1 metre (or 5ft)" }
+        ]
     }
 
 ]

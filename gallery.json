@@ -29,5 +29,10 @@
         "src": "./images/watches/gm-114gem-1a9er-1.jpg",
         "name": "GM-114GEM-1A9ER",
         "price": "309"
+    },{
+        "id": "7",
+        "src": "./images/watches/gwg-2000-1a1-1.png",
+        "name": "GWG-2000-1A1-1",
+        "price": "699"
     }
 ]
