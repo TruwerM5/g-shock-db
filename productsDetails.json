@@ -323,9 +323,6 @@
         "name": "GBA-900-4A",
         "alias": "HEAVY DUTY GA-900-4AER",
         "price": "119",
-        "description": [
-            "FROGMAN, the G-SHOCK MASTER OF G timepiece capable of ISO standard 200-metre diving, was first released in 1993, which means 2023 is the 30th anniversary of the FROGMAN lineup. As the second FROGMAN model to commemorate this anniversary, this new model uses the GWF-A1000 as a base model with a design based on a poison dart frog which inhabits the Amazon rain forests in South America. Randomly laminated multi-colour carbon and fiberglass are carved to create bezels that reproduce the mysterious colouring of the poison dart frog. This, combined with semitransparent urethane material, reproduces the appearance of the poison dart frog’s skin. Polarized ink is also used to recreate the image of the frog's mottled skin pattern. Even the frog character on the watch’s back cover, which identifies this watch as part of the FROGMAN series, sports the spotted pattern of a poison dart frog. This model is Bluetooth enabled, solar powered and Radio Controlled for the ultimate in connectivity."
-        ],
         "specifications": [
             { "feature":  "WATER RESISTANT", "description": "200 Metres Water Resistant" },
             { "feature":  "ACCURACY", "description": "+/- 15 seconds per month" },
