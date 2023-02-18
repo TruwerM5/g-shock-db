@@ -141,7 +141,7 @@
             "./images/watches/gwg-2000-1a1-3.png",
             "./images/watches/gwg-2000-1a1-4.png"
         ],
-        "name": "GWG-2000-1A1-1",
+        "name": "GWG-2000-1A1",
         "alias": "GWG-2000-1A1ER CARBON MUDMASTER",
         "price": "699",
         "description": [
@@ -232,7 +232,7 @@
             "./images/watches/mtg-b3000fr-1a-4.png",
             "./images/watches/mtg-b3000fr-1a-5.png"
         ],
-        "name": "GA-B001G-1A",
+        "name": "MTG-B3000FR-1A",
         "alias": "MTG 40TH ANNIVERSARY FLARE RED SERIES",
         "price": "1199",
         "description": [
@@ -320,7 +320,7 @@
             "./images/watches/gba-900-4a-5.png",
             "./images/watches/gba-900-4a-6.png"
         ],
-        "name": "GA-900-4AER",
+        "name": "GBA-900-4A",
         "alias": "HEAVY DUTY GA-900-4AER",
         "price": "119",
         "description": [
