@@ -154,6 +154,29 @@
             { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" },
             { "feature":  "ALTIMETER FUNCTION", "description": "A built-in pressure sensor measures barometric pressure, which is converted to relative altitude, Measuring range: -700 to 10,000m (-2,300 to 32,800ft), Measuring unit: 1 metre (or 5ft)" }
         ]
+    }, {
+        "id": "8",
+        "images": [
+            "./images/watches/ga-700vb-1a-1.png",
+            "./images/watches/ga-700vb-1a-2.png",
+            "./images/watches/ga-700vb-1a-3.png",
+            "./images/watches/ga-700vb-1a-4.png",
+            "./images/watches/ga-700vb-1a-5.png",
+            "./images/watches/ga-700vb-1a-6.png"
+        ],
+        "name": "GA-700VB-1A",
+        "alias": "GA-700 VIRTUAL BLUE SERIES",
+        "price": "99.90",
+        "description": [
+            "The new GA-700VB-1AER is a striking new colourway designed to reflect the world of Virtual Reality. The multi-dimensional hour and minute hands have a terquoise finish, adding to the powerful and bold design. All the practicality of the analogue-digital format, high-brightness LED illumination, a hand shift function and much more all add up to the best in timekeeping convenience."
+        ],
+        "specifications": [
+            { "feature":  "WATER RESISTANT", "description": "200 Metres Water Resistant" },
+            { "feature":  "ACCURACY", "description": "+/- 15 seconds per month" },
+            { "feature":  "ALARM FUNCTION", "description": "5 Daily Alarms: Each will sound every day at the time you set, Hourly time signal: The watch beeps every hour on the hour, Snooze function" },
+            { "feature":  "AUTO CALENDAR", "description": "Once set, the automatic calendar always displays the correct date" },
+            { "feature":  "BAND MATERIAL", "description": "Resin" }
+        ]
     }
 
 ]
